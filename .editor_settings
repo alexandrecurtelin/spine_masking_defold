@@ -1,0 +1,193 @@
+{
+  :bundle {
+    :android {
+      :architecture {
+        :arm64-android true
+        :armv7-android true
+      }
+      :format "apk,aab"
+      :install true
+      :key-pass "/Users/alexcurtelin/code/goblinz/signin/keystore_password.txt"
+      :keystore "/Users/alexcurtelin/code/goblinz/signin/my-release-key.keystore"
+      :keystore-pass "/Users/alexcurtelin/code/goblinz/signin/keystore_password.txt"
+      :launch true
+    }
+    :build-report true
+    :contentless false
+    :debug-symbols false
+    :html5 {
+      :architecture {
+        :js-web true
+        :wasm-web true
+      }
+    }
+    :ios {
+      :architecture {
+        :arm64-ios true
+        :x86_64-ios false
+      }
+      :code-signing-identity "iPhone Developer: alexandre curtelin (G43Q4ZG9S5)"
+      :install true
+      :launch true
+      :provisioning-profile "/Users/alexcurtelin/code/goblinz/signin/Alex_Dev_profile.mobileprovision"
+      :sign true
+    }
+    :liveupdate false
+    :macos {
+      :architecture {
+        :arm64-macos true
+        :x86_64-macos true
+      }
+    }
+    :texture-compression "enabled"
+    :variant "release"
+    :windows {
+      :platform "x86_64-win32"
+    }
+  }
+  :code {
+    :find {
+      :case-sensitive false
+      :replacement "CAMERA"
+      :term "tile"
+      :whole-word false
+      :wrap false
+    }
+  }
+  :open-assets {
+    :term "projec"
+  }
+  :search-in-files {
+    :exts ""
+    :include-libraries false
+    :term "pet_irish_potato"
+  }
+  :workflow {
+    :recent-files [
+      [
+        "/main/10/mob_10.spinescene"
+        :code
+      ]
+      [
+        "/main/approach_stencil/stencil.collection"
+        :scene
+      ]
+      [
+        "/main/approach_stencil/blocker.material"
+        :cljfx-form-view
+      ]
+      [
+        "/builtins/render/default.render_script"
+        :code
+      ]
+      [
+        "/main/approach_stencil/stencil.render_script"
+        :code
+      ]
+      [
+        "/main/approach_stencil/blocker.fp"
+        :code
+      ]
+      [
+        "/main/approach_stencil/test.collection"
+        :scene
+      ]
+      [
+        "/main/10/mob_10.atlas"
+        :scene
+      ]
+      [
+        "/main/10/mob_10.spinescene"
+        :scene
+      ]
+      [
+        "/main/approach_alpha/sprite.fp"
+        :code
+      ]
+      [
+        "/main/approach_stencil/controller.script"
+        :code
+      ]
+      [
+        "/main/approach_stencil/stencil.render"
+        :cljfx-form-view
+      ]
+      [
+        "/main/stencil2.render_script"
+        :code
+      ]
+      [
+        "/builtins/materials/sprite.vp"
+        :code
+      ]
+      [
+        "/main/approach_alpha/alpha.collection"
+        :scene
+      ]
+      [
+        "/main/approach_alpha/alpha.material"
+        :cljfx-form-view
+      ]
+      [
+        "/main/approach_alpha/alpha.fp"
+        :code
+      ]
+      [
+        "/main/approach_alpha/alpha.render"
+        :cljfx-form-view
+      ]
+      [
+        "/main/approach_alpha/alpha.render_script"
+        :code
+      ]
+      [
+        "/main/assets.atlas"
+        :scene
+      ]
+      [
+        "/main/stencil_test/blocker.fp"
+        :code
+      ]
+      [
+        "/main/stencil_test/blocker.material"
+        :cljfx-form-view
+      ]
+      [
+        "/main/stencil_test/controller.script"
+        :code
+      ]
+      [
+        "/main/stencil_test/stencil.render_script"
+        :code
+      ]
+      [
+        "/main/stencil_test/card.collection"
+        :scene
+      ]
+      [
+        "/main/stencil_test/test.collection"
+        :scene
+      ]
+      [
+        "/main/stencil_test/stencil.render"
+        :cljfx-form-view
+      ]
+      [
+        "/main/main.atlas"
+        :scene
+      ]
+      [
+        "/main/stencil_test/card/card.collection"
+        :scene
+      ]
+      [
+        "/main/stencil_test/card/card.script"
+        :code
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[bootstrap]
+main_collection = /main/stencil_test/test.collectionc
+render = /main/stencil_test/stencil.renderc
+
+[script]
+shared_state = 1
+
+[display]
+width = 960
+height = 640
+
+[project]
+title = Masking Spine Test
+dependencies#0 = https://github.com/defold/extension-spine/archive/refs/tags/3.6.5.zip
+dependencies#1 = https://github.com/britzl/defold-orthographic/archive/refs/tags/3.3.2.zip
+
+[input]
+game_binding = /builtins/input/all.input_bindingc
+

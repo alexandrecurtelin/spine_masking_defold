@@ -1,0 +1,4 @@
+images {
+  image: "/assets/mask.png"
+}
+extrude_borders: 2

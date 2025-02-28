@@ -1,0 +1,49 @@
+images {
+  image: "/assets/mob/images/mob_hornet_backwing.png"
+}
+images {
+  image: "/assets/mob/images/mob_hornet_body.png"
+}
+images {
+  image: "/assets/mob/images/mob_hornet_dard.png"
+}
+images {
+  image: "/assets/mob/images/mob_hornet_eye.png"
+}
+images {
+  image: "/assets/mob/images/mob_hornet_head.png"
+}
+images {
+  image: "/assets/mob/images/mob_hornet_wing.png"
+}
+images {
+  image: "/assets/mob/images/mob_orc_shadow.png"
+}
+images {
+  image: "/assets/mob/images/straightslash0.png"
+}
+images {
+  image: "/assets/mob/images/straightslash1.png"
+}
+images {
+  image: "/assets/mob/images/straightslash2.png"
+}
+images {
+  image: "/assets/mob/images/straightslash3.png"
+}
+images {
+  image: "/assets/mob/images/straightslash4.png"
+}
+images {
+  image: "/assets/mob/images/straightslash5.png"
+}
+images {
+  image: "/assets/mob/images/straightslash6.png"
+}
+images {
+  image: "/assets/mob/images/straightslash7.png"
+}
+images {
+  image: "/assets/mob/images/straightslash8.png"
+}
+extrude_borders: 2
